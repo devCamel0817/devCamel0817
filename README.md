@@ -42,32 +42,6 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 
----
-
-### 📊 성과
-
-| 지표 | 내용 |
-|------|------|
-| 🚀 배치 성능 | 50% 향상 (3h → 1.5h) |
-| 📈 생산성 | 20% 향상 |
-| 💼 실무 프로젝트 | 4개 |
-| 📅 실무 경력 | 3.2년 |
-
----
-
-### 🧪 Labs — 알고리즘 시각화
-
-> 라이브러리 없이 Canvas + 순수 JS로 구현한 인터랙티브 시각화
-
-| 프로젝트 | 설명 |
-|----------|------|
-| [Sorting Algorithms](https://dev-camel.vercel.app/labs/sorting) | Bubble, Selection, Insertion, Quick, Merge Sort 비교 |
-| [Pathfinding](https://dev-camel.vercel.app/labs/pathfinding) | BFS, DFS, Dijkstra, A* 경로 탐색 |
-| [Boids Simulation](https://dev-camel.vercel.app/labs/boids) | 3가지 규칙으로 만드는 군집 행동 |
-| [Fourier Transform](https://dev-camel.vercel.app/labs/fourier) | 그림을 에피사이클로 분해·복원 |
-
----
-
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devCamel0817&show_icons=true&theme=transparent&hide_border=true&title_color=c4956a&icon_color=2dd4bf&text_color=aaa)
