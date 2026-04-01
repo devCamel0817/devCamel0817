@@ -41,9 +41,3 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devCamel0817&show_icons=true&theme=transparent&hide_border=true&title_color=c4956a&icon_color=2dd4bf&text_color=aaa)
-
-</div>
